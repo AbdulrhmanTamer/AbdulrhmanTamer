@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋  
 
 ## About Me  
-Hi! I'm a **Computer Science and Artificial Intelligence student at Cairo University** and a passionate **developer**. I enjoy building projects that enhance my skills and contribute to real-world applications.  
+Hi!My name is Abdulrhman Tamer .. I'm a **Computer Science and Artificial Intelligence student at Cairo University** and a passionate **developer**. I enjoy building projects that enhance my skills and contribute to real-world applications.  
 
 ## What You'll Find Here  
 - A collection of projects showcasing my **coding skills** and **problem-solving abilities**.  
@@ -17,8 +17,8 @@ Hi! I'm a **Computer Science and Artificial Intelligence student at Cairo Univer
 ## Let's Connect!  
 If you're interested in my work or want to collaborate, feel free to reach out!  
 📧 Email: [abdulrahmantamersayed@gmail.com]  
-💼 LinkedIn: [www.linkedin.com/in/abdulrhman-tamer-9b5482320
+💼 LinkedIn: [www.linkedin.com/in/abdulrhman-tamer-9b5482320]
 
-]  
+ 
 
 Looking forward to learning and growing together! 🚀  
