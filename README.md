@@ -5,7 +5,7 @@ Hi!My name is Abdulrhman Tamer .. I'm a **Computer Science and Artificial Intell
 
 ## What You'll Find Here  
 - A collection of projects showcasing my **coding skills** and **problem-solving abilities**.  
-- Various implementations in **C++, Python, and other technologies**.  
+- Various implementations in **C++,java, Python, and other technologies**.  
 - Academic and personal projects related to **AI, data structures, algorithms, and software development**.  
 
 ## Technologies & Skills  
